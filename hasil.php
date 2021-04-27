@@ -22,7 +22,7 @@
     $message = 'Congratulation your file was accepted';
     echo $message;
     echo "<br>";
-    echo "<img src='images/".$photo."'>";
+    echo "<img src='images/$photo'";
 
     echo $nama;
     echo "<br>";
